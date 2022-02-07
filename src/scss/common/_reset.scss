@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+ul,ol,li{list-style: none;}
+a{text-decoration: none;}
+
+header, footer, figure, main, section{
+    border:1px solid #bbb;
+    padding:30px;
+}
