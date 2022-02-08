@@ -1,16 +1,24 @@
-export default function Header(){
+import {NavLink} from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBars } from '@fortawesome/free-solid-svg-icons'
+
+export default function Header(props){
+    const active={color : 'aqua'}
+
     return(
-        <header>
+        <header className={props.type}>
             <div className="inner">
-                <h1>DCODELAB</h1>
+                <h1><NavLink exact to='/'>DCODELAB</NavLink></h1>
                 <ul id="gnb">
-                    <li>Department</li>
-                    <li>Community</li>
-                    <li>Gallery</li>
-                    <li>Youtube</li>
-                    <li>Location</li>
-                    <li>Join</li>
+                    <li><NavLink activeStyle={active} to='/department'>Department</NavLink></li>
+                    <li><NavLink activeStyle={active} to='/community'>Community</NavLink></li>
+                    <li><NavLink activeStyle={active} to='/gallery'>Gallery</NavLink></li>
+                    <li><NavLink activeStyle={active} to='/youtube'>Youtube</NavLink></li>
+                    <li><NavLink activeStyle={active} to='/location'>Location</NavLink></li>
+                    <li><NavLink activeStyle={active} to='/join'>Join</NavLink></li>
                 </ul>
+
+            <FontAwesomeIcon icon={faBars} />
             </div>
         </header>
     );

@@ -1,5 +1,8 @@
 @charset 'UTF-8';
 
+$tablet : 1179px;
+$mobile : 639px;
+
 // common
 @import 'common/reset';
 @import 'common/layout';

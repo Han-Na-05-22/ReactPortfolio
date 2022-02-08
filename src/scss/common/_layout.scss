@@ -1,0 +1,53 @@
+.content{
+
+    >figure{
+        width:100%;
+        height:300px;
+        background:#ddd;
+    }
+
+    > .inner{
+        width:1180px;
+        margin:0px auto;
+        padding-top:100px;
+        opacity:0;
+        transform: translateY(100px);
+        transition:1s;
+
+
+        h1{
+            font:30px/1 'arial';
+            color:#333;
+            margin-bottom:20px;
+        }
+
+        >section{
+            min-height:500px;
+        }
+    }
+
+    &.on {
+        >.inner{
+            opacity:1;
+            transform:translateY(0%);
+        }
+    }
+}
+
+
+
+@media screen and (max-width : $tablet){
+    .content{
+
+        >figure{
+            height:200px;
+        }
+    
+        > .inner{
+            width:100%;
+            padding:0px 3vw;
+            padding-top:80px;
+        }
+    }
+     
+}
