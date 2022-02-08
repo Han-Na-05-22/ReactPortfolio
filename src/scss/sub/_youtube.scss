@@ -1,0 +1,99 @@
+.youtube{
+    background: #efefef;
+    .inner{
+        h1{}
+
+        >section{
+            padding-bottom: 100px;
+
+            &::after{
+                content: '';
+                display: block;
+                clear: both;
+            }
+
+            article{
+                width: 20%;
+                height: 500px;
+                float: left;
+                padding:10px;
+                overflow: hidden;
+                margin-bottom: 20px;
+                
+                .inner{
+                    width: 100%;
+                    height: 100%;
+                    background: #fff;
+                    box-shadow: 3px 3px 10px rgba(0,0,0,.1);
+                    padding:10px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-content: space-between;
+                    justify-content: center;
+
+                    /*
+                    word-break : 텍스트의 줄바꿈 속성 지정
+                    - normal : 한글은 한글자 기준, 영어는 단어를 기준으로 줄바꿈 됨(default)
+                    - break-all : 한글과 영어 모두 글자 단위로 줄바꿈
+                    - keep-all : 한글, 영어 모두 단어 기준으로 줄바꿈
+                    */
+
+                    .txt{
+
+                        h2{
+                            font:bold 16px/1.2 'arial';
+                            margin-bottom: 20px;
+                            color:#555;
+                        }
+
+                        p{
+                            font:12px/1.2 'arial';
+                            color:#888;
+                        }
+                    }
+
+
+                    .pic{
+                        width: 100%;
+                        height: 150px;
+                        cursor: pointer;
+                        overflow: hidden;
+
+                        img{
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                            transform: scale(1.6);
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+.pop{
+    width: 100%;
+    height: 90%;
+    background: #000;
+    position: fixed;
+    top: 5%;
+    left: 0;
+    padding:50px;
+
+    iframe{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    span{
+        position: absolute;
+        color:#fff;
+        font:bold 13px/1 'arial';
+        top: 20px;
+        right: 20px;
+        cursor: pointer;
+    }
+}
