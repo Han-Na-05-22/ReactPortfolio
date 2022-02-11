@@ -1,0 +1,67 @@
+#intro{
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+    padding: 150px 0px;
+
+    .inner{
+        width: 1180px;
+        margin: 0 auto;
+
+        h1{
+            font:bold 22px/1 'arial';
+            color:#333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        article{
+            width: 500px;
+            border:1px solid #ddd;
+            padding:30px;
+            margin: 0 auto;
+
+            path{
+                // 색상 변경 
+                fill:transparent;
+                // 테두리 색
+                stroke: #000;
+                // 테두리 굵기
+                stroke-width: 3;
+                // 선 수치값
+                stroke-dasharray: 1000;
+                stroke-dashoffset: 1000;
+                transition: all 2s;
+            }
+
+            &:hover{
+                path{
+                    stroke-dashoffset: 0;
+                    fill:rgba(0,0,0,.5);
+                }
+            }
+        }
+    }
+}
+
+
+/*
+
+1. Vector 
+-좌표값을 서로 이어서 산술적으로 연산된 그래픽 표현 방법
+* 장점 : 화면 확대, 축소 시 깨지지 않음
+* 단점 : 선, 면으로 구성이 되다 보니 단순한 형태의 그래픽 위주로 출력 
+( 대표적으로 아이콘 )
+
+2. Bitmap
+- 픽셀을 조합해서 이미지를 그리는 그래픽 표현 방법
+* 장점 : 사진같은 풍부한 그래픽을 표현 가능
+* 단점 : 화면을 확대 시 계단 현상 같이 그래픽이 깨짐
+
+SVG(Scalable Vector Graphic) : vector 방식
+
+Canvas : Bitmap 방식
+WebGL : 웹에서 3D 데이터를 출력하는 라이브러리
+Three.js : WebGL 기반으로 3D 오브제를 제어해주는 라이브러리
+
+*/

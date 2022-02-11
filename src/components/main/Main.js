@@ -1,6 +1,6 @@
 import Header from '../common/Header';
 import Visual from './Visual';
-import Info from './Info';
+import News from './News';
 import Intro from './Intro';
 
 export default function Main(){
@@ -9,7 +9,7 @@ export default function Main(){
             <Header type={'main'} />
             <Visual />
             <Intro />
-            <Info />
+            <News />
         </>
     );
 }

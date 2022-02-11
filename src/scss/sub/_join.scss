@@ -1,0 +1,81 @@
+
+.success{
+    width: 100%;
+    padding: 20px;
+    background: lightcyan;
+    font:bold 16px/1 '맑은 고딕';
+    color:cornflowerblue;
+    margin-bottom: 50px;
+}
+
+table{
+    width: 100%;
+    border-top:2px solid #333;
+    border-bottom: 2px solid #333;
+
+    th,td{
+        border-bottom: 1px solid #ddd;
+        padding:10px 30px;
+    }
+
+    th{
+        width: 20%;
+        border-right:1px solid #ddd;
+        text-align: left;
+        font:bold 14px/1 'arial';
+        color:#555;
+
+        &.btnSet{
+            text-align: center;
+
+            input[type=reset], input[type=submit]{
+                width: 150px;
+                height: 30px;
+                border:1px solid #555;
+                text-align: center;
+                margin: 10px;
+                cursor: pointer;
+                transition: 0.5s;
+
+                &:hover{
+                    background: #555;
+                    color:#fff;
+                }
+            }
+        }
+    }
+
+    td{
+        input[type=text], input[type=password],select{
+            width: 60%;
+            padding:7px 20px;
+            border:1px solid #aaa;
+        }
+
+        textarea{
+            width: 60%;
+            height: 150px;
+            padding:10px 20px;
+            border:1px solid #aaa;
+            resize: none;
+        }
+        
+        label{
+            font:12px/1 'arial';
+            color:#777;
+            margin-right: 5px;
+        }
+
+        input[type=check], input[type=radio]{
+            margin-right: 20px;
+        }
+
+        .err{
+            font:11px/1 '맑은 고딕';
+            color:hotpink;
+            display: block;
+            margin: 5px 0px;
+        }
+    }
+    
+}

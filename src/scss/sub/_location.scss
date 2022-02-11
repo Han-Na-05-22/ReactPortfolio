@@ -1,0 +1,11 @@
+.location{
+    .inner{
+        >section{
+            #map{
+                width: 100%;
+                height: 500px;
+                background: #000;
+            }
+        }
+    }
+}

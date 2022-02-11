@@ -1,0 +1,25 @@
+.community{
+    .inner{
+        >section{
+            .inputBox{
+                width: 100%;
+                padding: 50px;
+                margin-bottom: 50px;
+                border:1px solid #aaa;
+            }
+
+            .showList{
+                width: 100%;
+                padding: 50px;
+                border:1px solid #aaa;
+                
+                article{
+                    width: 100%;
+                    padding:30px;
+                    border:1px solid #bbb;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}
