@@ -1,0 +1,39 @@
+{
+    "data" : [
+        {
+            "pic" : "galleryMain01.jpg",
+            "title" : "Frist #1 : Lorem ipsum dolor sit.",
+            "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et nisi, dolorem ullam ipsa quidem corporis.",
+            "date" : "2022.02.15",
+            "page" : "01"
+        },
+        {
+            "pic" : "galleryMain02.jpg",
+            "title" : "Second #2 : Lorem ipsum dolor sit.",
+            "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et nisi, dolorem ullam ipsa quidem corporis.",
+            "date" : "2022.02.11",
+            "page" : "02"
+        },
+        {
+            "pic" : "galleryMain03.jpg",
+            "title" : "Third #3 : Lorem ipsum dolor sit.",
+            "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et nisi, dolorem ullam ipsa quidem corporis.",
+            "date" : "2022.02.02",
+            "page" : "03"
+        },
+        {
+            "pic" : "galleryMain04.jpg",
+            "title" : "Fourth #4 : Lorem ipsum dolor sit.",
+            "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et nisi, dolorem ullam ipsa quidem corporis.",
+            "date" : "2022.01.25",
+            "page" : "04"
+        },
+        {
+            "pic" : "galleryMain05.jpg",
+            "title" : "Fifth #5 : Lorem ipsum dolor sit.",
+            "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et nisi, dolorem ullam ipsa quidem corporis.",
+            "date" : "2022.01.17",
+            "page" : "05"
+        }
+    ]
+}
