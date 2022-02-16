@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.17deb3d5.css",
-    "main.js": "/ReactPortfolio/static/js/main.608e4915.js",
+    "main.css": "/ReactPortfolio/static/css/main.6b82713d.css",
+    "main.js": "/ReactPortfolio/static/js/main.e03005a1.js",
+    "static/media/mask4.png": "/ReactPortfolio/static/media/mask4.9c5854a2dc8d84720d67.png",
+    "static/media/mask3.png": "/ReactPortfolio/static/media/mask3.b1e0d027bd2274b2bbb3.png",
+    "static/media/videoBg01.jpg": "/ReactPortfolio/static/media/videoBg01.0c09b4e99455eb469a85.jpg",
+    "static/media/visualBg01.jpg": "/ReactPortfolio/static/media/visualBg01.e15ceccf09c680ff06ec.jpg",
+    "static/media/mask2.png": "/ReactPortfolio/static/media/mask2.a08ba9820e063c42eafd.png",
+    "static/media/infoBg01.jpg": "/ReactPortfolio/static/media/infoBg01.7ffe36d15f9d4ba680d5.jpg",
+    "static/media/mapBg01.jpg": "/ReactPortfolio/static/media/mapBg01.7ffe36d15f9d4ba680d5.jpg",
+    "static/media/memberBg01.jpg": "/ReactPortfolio/static/media/memberBg01.7ffe36d15f9d4ba680d5.jpg",
+    "static/media/newsBg01.jpg": "/ReactPortfolio/static/media/newsBg01.fb79520d339365e3a028.jpg",
+    "static/media/storyBg01.jpg": "/ReactPortfolio/static/media/storyBg01.fb79520d339365e3a028.jpg",
+    "static/media/mask1.png": "/ReactPortfolio/static/media/mask1.89b7cd94dc9ad6cd1ebf.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.17deb3d5.css.map": "/ReactPortfolio/static/css/main.17deb3d5.css.map",
-    "main.608e4915.js.map": "/ReactPortfolio/static/js/main.608e4915.js.map"
+    "main.6b82713d.css.map": "/ReactPortfolio/static/css/main.6b82713d.css.map",
+    "main.e03005a1.js.map": "/ReactPortfolio/static/js/main.e03005a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.17deb3d5.css",
-    "static/js/main.608e4915.js"
+    "static/css/main.6b82713d.css",
+    "static/js/main.e03005a1.js"
   ]
 }
