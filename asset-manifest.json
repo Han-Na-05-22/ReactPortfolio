@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.62bad7cc.css",
-    "main.js": "/ReactPortfolio/static/js/main.ebbb6407.js",
-    "static/media/departmentBg01.jpg": "/ReactPortfolio/static/media/departmentBg01.432082caab52f38fbc68.jpg",
-    "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.432082caab52f38fbc68.jpg",
+    "main.css": "/ReactPortfolio/static/css/main.4eda265c.css",
+    "main.js": "/ReactPortfolio/static/js/main.69f84543.js",
+    "static/media/aboutBg01.jpg": "/ReactPortfolio/static/media/aboutBg01.459d9a2b96b0c2c30c2a.jpg",
+    "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.b176d049c896543d5016.jpg",
+    "static/media/qq.jpg": "/ReactPortfolio/static/media/qq.e964bfd9d5e5f493c29d.jpg",
     "static/media/locationBg02.jpg": "/ReactPortfolio/static/media/locationBg02.a46844bb04766880828f.jpg",
     "static/media/login01.jpg": "/ReactPortfolio/static/media/login01.124e52403b44b1985a36.jpg",
     "static/media/gallery06.jpg": "/ReactPortfolio/static/media/gallery06.ccec4e12644efda42df2.jpg",
@@ -11,7 +12,6 @@
     "static/media/join06.jpg": "/ReactPortfolio/static/media/join06.5183e26d6df468e9aa39.jpg",
     "static/media/mask3.png": "/ReactPortfolio/static/media/mask3.b1e0d027bd2274b2bbb3.png",
     "static/media/videoBg01.jpg": "/ReactPortfolio/static/media/videoBg01.0c09b4e99455eb469a85.jpg",
-    "static/media/CommunityBg01.jpeg": "/ReactPortfolio/static/media/CommunityBg01.f1f623db34b6094ca45a.jpeg",
     "static/media/visualBg01.jpg": "/ReactPortfolio/static/media/visualBg01.e15ceccf09c680ff06ec.jpg",
     "static/media/mask2.png": "/ReactPortfolio/static/media/mask2.a08ba9820e063c42eafd.png",
     "static/media/infoBg01.jpg": "/ReactPortfolio/static/media/infoBg01.7ffe36d15f9d4ba680d5.jpg",
@@ -21,11 +21,11 @@
     "static/media/storyBg01.jpg": "/ReactPortfolio/static/media/storyBg01.fb79520d339365e3a028.jpg",
     "static/media/mask1.png": "/ReactPortfolio/static/media/mask1.89b7cd94dc9ad6cd1ebf.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.62bad7cc.css.map": "/ReactPortfolio/static/css/main.62bad7cc.css.map",
-    "main.ebbb6407.js.map": "/ReactPortfolio/static/js/main.ebbb6407.js.map"
+    "main.4eda265c.css.map": "/ReactPortfolio/static/css/main.4eda265c.css.map",
+    "main.69f84543.js.map": "/ReactPortfolio/static/js/main.69f84543.js.map"
   },
   "entrypoints": [
-    "static/css/main.62bad7cc.css",
-    "static/js/main.ebbb6407.js"
+    "static/css/main.4eda265c.css",
+    "static/js/main.69f84543.js"
   ]
 }

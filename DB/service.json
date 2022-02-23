@@ -1,0 +1,36 @@
+{
+    "data" : [
+        {
+            "pic" : "galleryMain01.jpg",
+            "video" : "video02.mp4",
+            "contentB" : "A",
+            "contentP" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo minima animi sapiente aut corporis? Ratione beatae commodi magni animi illum facere nihil a quae vel? Minus illum fugit architecto quibusdam! Lorem ipsum dolor, sit amet consectetur adipisicing.",
+            "contentP2" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quod deleniti vel quae totam quos corrupti? Quas reiciendis cupiditate debitis doloribus nesciunt alias doloremque, exercitationem ad velit necessitatibus officiis facilis quibusdam animi. Mollitia fugiat itaque consectetur, ratione dignissimos quidem delectus corrupti doloremque. Amet voluptatum consequuntur autem, excepturi libero vero quia!",
+            "contentS" : "Lorem ipsum dolor"
+        },
+        {
+            "pic" : "galleryMain02.jpg",
+            "video" : "video02.mp4",
+            "contentB" : "B",
+            "contentP" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo minima animi sapiente aut corporis? Ratione beatae commodi magni animi illum facere nihil a quae vel? Minus illum fugit architecto quibusdam! Lorem ipsum dolor, sit amet consectetur adipisicing.",
+            "contentP2" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quod deleniti vel quae totam quos corrupti? Quas reiciendis cupiditate debitis doloribus nesciunt alias doloremque, exercitationem ad velit necessitatibus officiis facilis quibusdam animi. Mollitia fugiat itaque consectetur, ratione dignissimos quidem delectus corrupti doloremque. Amet voluptatum consequuntur autem, excepturi libero vero quia!",
+            "contentS" : "Lorem ipsum dolor"
+        },
+        {
+            "pic" : "galleryMain03.jpg",
+            "video" : "video02.mp4",
+            "contentB" : "C",
+            "contentP" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo minima animi sapiente aut corporis? Ratione beatae commodi magni animi illum facere nihil a quae vel? Minus illum fugit architecto quibusdam! Lorem ipsum dolor, sit amet consectetur adipisicing.",
+            "contentP2" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quod deleniti vel quae totam quos corrupti? Quas reiciendis cupiditate debitis doloribus nesciunt alias doloremque, exercitationem ad velit necessitatibus officiis facilis quibusdam animi. Mollitia fugiat itaque consectetur, ratione dignissimos quidem delectus corrupti doloremque. Amet voluptatum consequuntur autem, excepturi libero vero quia!",
+            "contentS" : "Lorem ipsum dolor"
+        },
+        {
+            "pic" : "galleryMain02.jpg",
+            "video" : "video02.mp4",
+            "contentB" : "D",
+            "contentP" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo minima animi sapiente aut corporis? Ratione beatae commodi magni animi illum facere nihil a quae vel? Minus illum fugit architecto quibusdam! Lorem ipsum dolor, sit amet consectetur adipisicing.",
+            "contentP2" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quod deleniti vel quae totam quos corrupti? Quas reiciendis cupiditate debitis doloribus nesciunt alias doloremque, exercitationem ad velit necessitatibus officiis facilis quibusdam animi. Mollitia fugiat itaque consectetur, ratione dignissimos quidem delectus corrupti doloremque. Amet voluptatum consequuntur autem, excepturi libero vero quia!",
+            "contentS" : "Lorem ipsum dolor"
+        }
+    ]
+}
