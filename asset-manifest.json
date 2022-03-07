@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.9b6b5f40.css",
-    "main.js": "/ReactPortfolio/static/js/main.558fb7c6.js",
+    "main.css": "/ReactPortfolio/static/css/main.db49dfbd.css",
+    "main.js": "/ReactPortfolio/static/js/main.3fdf09af.js",
     "static/media/aboutBg01.jpg": "/ReactPortfolio/static/media/aboutBg01.459d9a2b96b0c2c30c2a.jpg",
     "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.b176d049c896543d5016.jpg",
     "static/media/login02.jpg": "/ReactPortfolio/static/media/login02.39f21319d0165d7da812.jpg",
+    "static/media/galleryMain01.jpg": "/ReactPortfolio/static/media/galleryMain01.877c8cd5ca63673de374.jpg",
+    "static/media/join04.jpg": "/ReactPortfolio/static/media/join04.1f84fc8a0982fbc9f382.jpg",
     "static/media/qq.jpg": "/ReactPortfolio/static/media/qq.e964bfd9d5e5f493c29d.jpg",
     "static/media/locationBg02.jpg": "/ReactPortfolio/static/media/locationBg02.288a0525bceaf61adb53.jpg",
+    "static/media/galleryMain03.jpg": "/ReactPortfolio/static/media/galleryMain03.c3ed589d9f14e07e610a.jpg",
     "static/media/gallery06.jpg": "/ReactPortfolio/static/media/gallery06.ccec4e12644efda42df2.jpg",
     "static/media/mask4.png": "/ReactPortfolio/static/media/mask4.9c5854a2dc8d84720d67.png",
     "static/media/join06.jpg": "/ReactPortfolio/static/media/join06.5183e26d6df468e9aa39.jpg",
@@ -14,17 +17,20 @@
     "static/media/videoBg01.jpg": "/ReactPortfolio/static/media/videoBg01.0c09b4e99455eb469a85.jpg",
     "static/media/visualBg01.jpg": "/ReactPortfolio/static/media/visualBg01.e15ceccf09c680ff06ec.jpg",
     "static/media/mask2.png": "/ReactPortfolio/static/media/mask2.a08ba9820e063c42eafd.png",
+    "static/media/join02.jpeg": "/ReactPortfolio/static/media/join02.45a031d30889f9b56364.jpeg",
     "static/media/infoBg01.jpg": "/ReactPortfolio/static/media/infoBg01.7ffe36d15f9d4ba680d5.jpg",
+    "static/media/newsBg01.jpg": "/ReactPortfolio/static/media/newsBg01.fb79520d339365e3a028.jpg",
     "static/media/questionsBg01.jpg": "/ReactPortfolio/static/media/questionsBg01.fb79520d339365e3a028.jpg",
     "static/media/storyBg01.jpg": "/ReactPortfolio/static/media/storyBg01.fb79520d339365e3a028.jpg",
     "static/media/mapBg01.jpg": "/ReactPortfolio/static/media/mapBg01.965b4e14147591ef5b49.jpg",
     "static/media/mask1.png": "/ReactPortfolio/static/media/mask1.89b7cd94dc9ad6cd1ebf.png",
+    "static/media/join01.jpeg": "/ReactPortfolio/static/media/join01.c0c2a77f31effa969023.jpeg",
     "index.html": "/ReactPortfolio/index.html",
-    "main.9b6b5f40.css.map": "/ReactPortfolio/static/css/main.9b6b5f40.css.map",
-    "main.558fb7c6.js.map": "/ReactPortfolio/static/js/main.558fb7c6.js.map"
+    "main.db49dfbd.css.map": "/ReactPortfolio/static/css/main.db49dfbd.css.map",
+    "main.3fdf09af.js.map": "/ReactPortfolio/static/js/main.3fdf09af.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b6b5f40.css",
-    "static/js/main.558fb7c6.js"
+    "static/css/main.db49dfbd.css",
+    "static/js/main.3fdf09af.js"
   ]
 }
