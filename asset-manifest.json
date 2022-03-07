@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.1c2a818d.css",
-    "main.js": "/ReactPortfolio/static/js/main.20fe80ee.js",
+    "main.css": "/ReactPortfolio/static/css/main.a7f653fd.css",
+    "main.js": "/ReactPortfolio/static/js/main.6cbd5373.js",
     "static/media/aboutBg01.jpg": "/ReactPortfolio/static/media/aboutBg01.459d9a2b96b0c2c30c2a.jpg",
     "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.b176d049c896543d5016.jpg",
     "static/media/login02.jpg": "/ReactPortfolio/static/media/login02.39f21319d0165d7da812.jpg",
@@ -14,19 +14,17 @@
     "static/media/videoBg01.jpg": "/ReactPortfolio/static/media/videoBg01.0c09b4e99455eb469a85.jpg",
     "static/media/visualBg01.jpg": "/ReactPortfolio/static/media/visualBg01.e15ceccf09c680ff06ec.jpg",
     "static/media/mask2.png": "/ReactPortfolio/static/media/mask2.a08ba9820e063c42eafd.png",
-    "static/media/ZZZZ.jpg": "/ReactPortfolio/static/media/ZZZZ.63e6c1d254237120835f.jpg",
     "static/media/infoBg01.jpg": "/ReactPortfolio/static/media/infoBg01.7ffe36d15f9d4ba680d5.jpg",
-    "static/media/memberBg01.jpg": "/ReactPortfolio/static/media/memberBg01.7ffe36d15f9d4ba680d5.jpg",
-    "static/media/newsBg01.jpg": "/ReactPortfolio/static/media/newsBg01.fb79520d339365e3a028.jpg",
+    "static/media/questionsBg01.jpg": "/ReactPortfolio/static/media/questionsBg01.fb79520d339365e3a028.jpg",
     "static/media/storyBg01.jpg": "/ReactPortfolio/static/media/storyBg01.fb79520d339365e3a028.jpg",
-    "static/media/mapBg01.jpg": "/ReactPortfolio/static/media/mapBg01.dc6a181f83423bffa51b.jpg",
+    "static/media/mapBg01.jpg": "/ReactPortfolio/static/media/mapBg01.965b4e14147591ef5b49.jpg",
     "static/media/mask1.png": "/ReactPortfolio/static/media/mask1.89b7cd94dc9ad6cd1ebf.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.1c2a818d.css.map": "/ReactPortfolio/static/css/main.1c2a818d.css.map",
-    "main.20fe80ee.js.map": "/ReactPortfolio/static/js/main.20fe80ee.js.map"
+    "main.a7f653fd.css.map": "/ReactPortfolio/static/css/main.a7f653fd.css.map",
+    "main.6cbd5373.js.map": "/ReactPortfolio/static/js/main.6cbd5373.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c2a818d.css",
-    "static/js/main.20fe80ee.js"
+    "static/css/main.a7f653fd.css",
+    "static/js/main.6cbd5373.js"
   ]
 }
