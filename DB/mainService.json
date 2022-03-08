@@ -1,0 +1,88 @@
+{
+    "data" : [
+        {
+            "titleB" : "A",
+            "title01" : "SERVUCE",
+            "title02" : "FREEDIVER",
+            "contentP1" : "Lorem ipsum dolor sit amet consectetur",
+            "contentS1" : "Lorem ipsum dolor sit amet.",
+            "contentP2" : "doloremque delectus excepturi",
+            "contentS2" : "eos sapiente culpa excepturi.",
+            "contentP3" : "sapiente culpa excepturi quaerat",
+            "contentS3" : "Lorem ipsum dolor sit.",
+            "contentP4" : "Lorem ipsum dolor sit amet",
+            "contentS4" : "accusantium optio ratione dolor.",
+            "contentSt" : "Read More"
+        },
+        {
+            "titleB" : "B",
+            "title01" : "SERVUCE",
+            "title02" : "FREEDIVER",
+            "contentP1" : "Lorem ipsum dolor sit amet",
+            "contentS1" : "Temporibus, quia!",
+            "contentP2" : "itaque facilis accusantium voluptatibus",
+            "contentS2" : "Lorem ipsum dolor sit.",
+            "contentP3" : "Possimus, reprehenderit cupiditate",
+            "contentS3" : "tempora totam alias sequi.",
+            "contentP4" : "sit amet consectetur adipisicing elit",
+            "contentS4" : "consequatur doloribus.",
+            "contentSt" : "Read More"
+        },
+        {
+            "titleB" : "C",
+            "title01" : "SERVUCE",
+            "title02" : "FREEDIVER",
+            "contentP1" : "ipsum dolor sit, amet consectetur adipisicing",
+            "contentS1" : "consectetur adipisicing elit.",
+            "contentP2" : "Doloremque nobis ipsam odio expedita",
+            "contentS2" : "Lorem ipsum dolor sit.",
+            "contentP3" : "numquam atque voluptas debitis",
+            "contentS3" : "beatae facere.",
+            "contentP4" : "aspernatur exercitationem incidunt",
+            "contentS4" : "voluptatum expedita ipsa.",
+            "contentSt" : "Read More"
+        },
+        {
+            "titleB" : "D",
+            "title01" : "SERVUCE",
+            "title02" : "FREEDIVER",
+            "contentP1" : "quas labore aliquam fugit",
+            "contentS1" : "veritatis sunt enim minima.",
+            "contentP2" : "obcaecati minus rem ad est",
+            "contentS2" : "Vitae expedita quam aperiam.",
+            "contentP3" : "eveniet soluta similique.",
+            "contentS3" : "Optio sed magni ad rem.",
+            "contentP4" : "perferendis ipsam mollitia adipisci",
+            "contentS4" : "Quasi, ipsam repellendus nihil.",
+            "contentSt" : "Read More"
+        },
+        {
+            "titleB" : "E",
+            "title01" : "SERVUCE",
+            "title02" : "FREEDIVER",
+            "contentP1" : "doloremque delectus excepturi veniam!",
+            "contentS1" : "Possimus, reprehenderit.",
+            "contentP2" : "Voluptatum beatae, illum nam repudiandae alias",
+            "contentS2" : "Lorem ipsum dolor sit.",
+            "contentP3" : "architecto repellendus quidem",
+            "contentS3" : "quaerat aperiam esse.",
+            "contentP4" : "tempora totam alias sequi",
+            "contentS4" : "enim totam aliquid.",
+            "contentSt" : "Read More"
+        },
+        {
+            "titleB" : "F",
+            "title01" : "SERVUCE",
+            "title02" : "FREEDIVER",
+            "contentP1" : "quaerat accusantium optio ratione",
+            "contentS1" : "adipisci, Eius.",
+            "contentP2" : "Possimus, reprehenderit cupiditate",
+            "contentS2" : "Voluptas, doloremque.",
+            "contentP3" : "culpa excepturi quaerat aperiam",
+            "contentS3" : "Optio sed magni.",
+            "contentP4" : "perferendis ipsam mollitia adipisci",
+            "contentS4" : "repellendus quidem.",
+            "contentSt" : "Read More"
+        }
+    ]
+}
