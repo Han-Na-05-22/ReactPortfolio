@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.b2955852.css",
+    "main.css": "/ReactPortfolio/static/css/main.b197f287.css",
     "main.js": "/ReactPortfolio/static/js/main.e748dadf.js",
-    "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.50496c96111779c2c700.jpg",
-    "static/media/aboutBg01.jpg": "/ReactPortfolio/static/media/aboutBg01.85b118bfbb4c608a01b4.jpg",
-    "static/media/login02.jpg": "/ReactPortfolio/static/media/login02.39f21319d0165d7da812.jpg",
-    "static/media/galleryMain01.jpg": "/ReactPortfolio/static/media/galleryMain01.877c8cd5ca63673de374.jpg",
-    "static/media/locationBg02.jpg": "/ReactPortfolio/static/media/locationBg02.288a0525bceaf61adb53.jpg",
-    "static/media/galleryMain03.jpg": "/ReactPortfolio/static/media/galleryMain03.c3ed589d9f14e07e610a.jpg",
-    "static/media/galleryMain02.jpg": "/ReactPortfolio/static/media/galleryMain02.1ba9533e9ac3aa965cdc.jpg",
-    "static/media/SERVICE02.jpg": "/ReactPortfolio/static/media/SERVICE02.5fb560577b5fd1425ca0.jpg",
-    "static/media/gallery06.jpg": "/ReactPortfolio/static/media/gallery06.ccec4e12644efda42df2.jpg",
+    "static/media/galleryMain01.jpg": "/ReactPortfolio/static/media/galleryMain01.3b7acad4241954314bc6.jpg",
     "static/media/mask4.png": "/ReactPortfolio/static/media/mask4.9c5854a2dc8d84720d67.png",
-    "static/media/join01.jpg": "/ReactPortfolio/static/media/join01.97278f85c6a4a31c7a08.jpg",
-    "static/media/SERVICE04.jpg": "/ReactPortfolio/static/media/SERVICE04.5183e26d6df468e9aa39.jpg",
+    "static/media/galleryMain03.jpg": "/ReactPortfolio/static/media/galleryMain03.2bd17ee85785f5ae731b.jpg",
+    "static/media/galleryMain02.jpg": "/ReactPortfolio/static/media/galleryMain02.8671829cb247cff95e68.jpg",
     "static/media/mask3.png": "/ReactPortfolio/static/media/mask3.b1e0d027bd2274b2bbb3.png",
+    "static/media/SERVICE02.jpg": "/ReactPortfolio/static/media/SERVICE02.f53f47f26f6e8c647e9c.jpg",
     "static/media/videoBg01.jpg": "/ReactPortfolio/static/media/videoBg01.0c09b4e99455eb469a85.jpg",
+    "static/media/SERVICE04.jpg": "/ReactPortfolio/static/media/SERVICE04.a34d21d6d195933493ab.jpg",
     "static/media/visualBg01.jpg": "/ReactPortfolio/static/media/visualBg01.e15ceccf09c680ff06ec.jpg",
     "static/media/mask2.png": "/ReactPortfolio/static/media/mask2.a08ba9820e063c42eafd.png",
+    "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.d98531aca0e2a97e925e.jpg",
     "static/media/SERVICE01.jpeg": "/ReactPortfolio/static/media/SERVICE01.7383db3a0e93b5f546a9.jpeg",
     "static/media/infoBg01.jpg": "/ReactPortfolio/static/media/infoBg01.7ffe36d15f9d4ba680d5.jpg",
     "static/media/questionsBg01.jpg": "/ReactPortfolio/static/media/questionsBg01.fb79520d339365e3a028.jpg",
@@ -25,11 +20,11 @@
     "static/media/mapBg01.jpg": "/ReactPortfolio/static/media/mapBg01.965b4e14147591ef5b49.jpg",
     "static/media/mask1.png": "/ReactPortfolio/static/media/mask1.89b7cd94dc9ad6cd1ebf.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.b2955852.css.map": "/ReactPortfolio/static/css/main.b2955852.css.map",
+    "main.b197f287.css.map": "/ReactPortfolio/static/css/main.b197f287.css.map",
     "main.e748dadf.js.map": "/ReactPortfolio/static/js/main.e748dadf.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2955852.css",
+    "static/css/main.b197f287.css",
     "static/js/main.e748dadf.js"
   ]
 }
