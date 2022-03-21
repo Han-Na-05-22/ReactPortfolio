@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.e804a64b.css",
-    "main.js": "/ReactPortfolio/static/js/main.09fb16d6.js",
+    "main.css": "/ReactPortfolio/static/css/main.e45e8cd5.css",
+    "main.js": "/ReactPortfolio/static/js/main.4ae95691.js",
     "static/media/mask4.png": "/ReactPortfolio/static/media/mask4.9c5854a2dc8d84720d67.png",
-    "static/media/galleryMain03.jpg": "/ReactPortfolio/static/media/galleryMain03.2bd17ee85785f5ae731b.jpg",
-    "static/media/galleryMain02.jpg": "/ReactPortfolio/static/media/galleryMain02.8671829cb247cff95e68.jpg",
-    "static/media/galleryMain01.jpg": "/ReactPortfolio/static/media/galleryMain01.6f0db2955e9b68a91eda.jpg",
     "static/media/mask3.png": "/ReactPortfolio/static/media/mask3.b1e0d027bd2274b2bbb3.png",
     "static/media/login02.jpg": "/ReactPortfolio/static/media/login02.2afad88862a696905d59.jpg",
-    "static/media/SERVICE02.jpg": "/ReactPortfolio/static/media/SERVICE02.f53f47f26f6e8c647e9c.jpg",
     "static/media/gallery06.jpg": "/ReactPortfolio/static/media/gallery06.7075590bda959828769a.jpg",
     "static/media/videoBg01.jpg": "/ReactPortfolio/static/media/videoBg01.0c09b4e99455eb469a85.jpg",
     "static/media/join01.jpg": "/ReactPortfolio/static/media/join01.9c3cd21a598d2187b7a2.jpg",
-    "static/media/SERVICE04.jpg": "/ReactPortfolio/static/media/SERVICE04.a34d21d6d195933493ab.jpg",
     "static/media/visualBg01.jpg": "/ReactPortfolio/static/media/visualBg01.e15ceccf09c680ff06ec.jpg",
     "static/media/mask2.png": "/ReactPortfolio/static/media/mask2.a08ba9820e063c42eafd.png",
     "static/media/community01.jpg": "/ReactPortfolio/static/media/community01.d98531aca0e2a97e925e.jpg",
-    "static/media/SERVICE01.jpeg": "/ReactPortfolio/static/media/SERVICE01.7383db3a0e93b5f546a9.jpeg",
     "static/media/locationBg02.jpg": "/ReactPortfolio/static/media/locationBg02.a9fe0d262b99b20db68a.jpg",
     "static/media/youtube01.jpg": "/ReactPortfolio/static/media/youtube01.46fe33b94f5fa22b15ba.jpg",
     "static/media/infoBg01.jpg": "/ReactPortfolio/static/media/infoBg01.7ffe36d15f9d4ba680d5.jpg",
@@ -25,11 +19,11 @@
     "static/media/mapBg01.jpg": "/ReactPortfolio/static/media/mapBg01.965b4e14147591ef5b49.jpg",
     "static/media/mask1.png": "/ReactPortfolio/static/media/mask1.89b7cd94dc9ad6cd1ebf.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.e804a64b.css.map": "/ReactPortfolio/static/css/main.e804a64b.css.map",
-    "main.09fb16d6.js.map": "/ReactPortfolio/static/js/main.09fb16d6.js.map"
+    "main.e45e8cd5.css.map": "/ReactPortfolio/static/css/main.e45e8cd5.css.map",
+    "main.4ae95691.js.map": "/ReactPortfolio/static/js/main.4ae95691.js.map"
   },
   "entrypoints": [
-    "static/css/main.e804a64b.css",
-    "static/js/main.09fb16d6.js"
+    "static/css/main.e45e8cd5.css",
+    "static/js/main.4ae95691.js"
   ]
 }
